@@ -1,0 +1,23 @@
+Implement the InsertionSort and MergeSort algorithms in any programming language of your choice. Then measure the runtime of each algorithm for integer arrays of sizes given in 2A through 2D.
+
+2.A.)  size n=100 
+– case 1: for a sorted array of ascending order, 2 
+- case 2: for a sorted array of descending order, 
+- case 3: for an unsorted (random) array
+
+2.B.)  size n=1000 
+- case 1: for a sorted array of ascending order, 
+- case 2: for a sorted array of descending order, 
+- case 3: for an unsorted (random) array
+
+2.C.)  size n=10000 
+- case 1: for a sorted array of ascending order, 
+- case 2: for a sorted array of descending order, 
+- case 3: for an unsorted (random) array
+
+2.D.)  size n=100000 elements 
+- case 1: for a sorted array of ascending order, 
+- case 2: for a sorted array of descending order, 
+- case 3: for an unsorted (random) array
+
+Plot the input size vs. runtime graph for each algorithm for each size and for each case. You can plot the graph either manually, or by using an automated tool. Compare and comment on the results. Please attach your program source code to your submission.
